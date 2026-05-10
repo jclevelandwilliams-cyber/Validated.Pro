@@ -8,7 +8,7 @@ James C. Williams · Founder, Validated.pro
 
 ## What This Is
 
-This repository is the public distribution layer for Validated Field Notes, a market intelligence report series tracking capital flow, institutional positioning, strategic acquisitions, and enterprise AI movement.
+This repository is the public distribution layer for Validated Field Notes, a market intelligence report series tracking capital flow, institutional positioning, strategic acquisitions, and enterprise movement.
 
 Built for decision-makers who cannot afford narrative distortion, weak sourcing, or market theater.
 
